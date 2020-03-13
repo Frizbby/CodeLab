@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CodeLab</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="previous">Précédent</string>
+    <string name="random_button_text">Random</string>
+    <string name="toast_button">Bouton</string>
+    <string name="count_button">Count</string>
+    <string name="Logo_reec">logo-rec</string>
+    <string name="hello_first_fragment">Hello and Welcome !</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
